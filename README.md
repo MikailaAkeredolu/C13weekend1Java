@@ -17,10 +17,11 @@
 ```
 - Given these two array literals below:
 
-int[] firstArray = {1,2,3,4,5};
-int[] secondArray = {6,7,8,9,10};
+int[] firstArray = {103,23,34,41,75};
+int[] secondArray = {66,75,18,91,120};
  
 - Multiply the element at index position 3 in the first array by the element at index position 1 in the second array.
+- reassign the value 69 to the last element in the first array
 - Then divide the result by the element at index 1 in the first array.
 - Finally, print out the result.
 
@@ -39,7 +40,8 @@ int[] secondArray = {6,7,8,9,10};
 
 > Question 5
 ``` 
-- Create a static method that simply returns the remainder of 118 ÷ 31 then muliplies it by a double value. Invoke/call it inside main().`
+- Create a static method that that accepts a number as an argument/parameter then prints from 0 to that number`
+ - eg: if number passed as argument to method is five then print 0 1 2 3 4 5
 ```
 
 > Question 6
@@ -70,10 +72,11 @@ int[] secondArray = {6,7,8,9,10};
 ```
 - Perform the following calculations on the array below named arrayOfNumbers.
 
-int[] arrayOfNumbers = {12, 4, 67, 8, 90, 23, 4};
+int[] numbersArray = {2, 34, 7, 48, 0, 13, 24};
 
 Calculations to perform
-- Use a for-loop to print out the sum of all the elements in the array.
+- Use a for-loop to print out all the elements in the array.
+- Also print out the sum of all the elements in the array.
 - Also print out the average of this array.
 ```
 
