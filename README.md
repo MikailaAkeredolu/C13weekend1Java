@@ -1,7 +1,7 @@
 # Weekend Homework 1 - Groups B - D
 
 ###  Push code to github and DM link to repo to me by 12 noon on Monday ( March 20, 2023)
-#### Carries your first homework infraction
+#### Carries your first homework infraction if not submitted!!!
 
 > Question: 1
 
@@ -39,12 +39,12 @@ int[] secondArray = {6,7,8,9,10};
 
 > Question 5
 ``` 
-- Create a static method that simply returns the remainder of 118 ÷ 31. Invoke/call it inside main().`
+- Create a static method that simply returns the remainder of 118 ÷ 31 then muliplies it by a double value. Invoke/call it inside main().`
 ```
 
 > Question 6
 ``` 
-- Write a for-loop that prints every number from 3 including 19
+- Write a for-loop that prints every number from 13 - 19 including 19
 
 ```
 
